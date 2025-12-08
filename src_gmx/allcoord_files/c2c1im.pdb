@@ -1,0 +1,42 @@
+TITLE     created by fftool
+REMARK    SIMBOX
+CRYST1   11.842   11.842   11.842  90.00  90.00  90.00 P 1           1
+HETATM    1 N1   c2c     1       8.302   5.353   3.007  1.00  0.00           N
+HETATM    2 C1   c2c     1       8.340   5.448   4.318  1.00  0.00           C
+HETATM    3 N2   c2c     1       7.122   5.600   4.789  1.00  0.00           N
+HETATM    4 C2   c2c     1       6.250   5.603   3.722  1.00  0.00           C
+HETATM    5 C3   c2c     1       6.985   5.449   2.612  1.00  0.00           C
+HETATM    6 C4   c2c     1       9.450   5.175   2.114  1.00  0.00           C
+HETATM    7 H1   c2c     1       9.237   5.407   4.918  1.00  0.00           H
+HETATM    8 C5   c2c     1       6.748   5.742   6.200  1.00  0.00           C
+HETATM    9 H2   c2c     1       5.176   5.709   3.771  1.00  0.00           H
+HETATM   10 H3   c2c     1       6.615   5.407   1.598  1.00  0.00           H
+HETATM   11 H4   c2c     1       9.504   6.014   1.420  1.00  0.00           H
+HETATM   12 H5   c2c     1      10.366   5.132   2.703  1.00  0.00           H
+HETATM   13 H6   c2c     1       9.336   4.247   1.553  1.00  0.00           H
+HETATM   14 C6   c2c     1       7.998   5.688   7.063  1.00  0.00           C
+HETATM   15 H7   c2c     1       6.246   6.698   6.348  1.00  0.00           H
+HETATM   16 H8   c2c     1       6.077   4.932   6.482  1.00  0.00           H
+HETATM   17 H9   c2c     1       7.720   5.794   8.112  1.00  0.00           H
+HETATM   18 H10  c2c     1       8.501   4.733   6.916  1.00  0.00           H
+HETATM   19 H11  c2c     1       8.670   6.499   6.782  1.00  0.00           H
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    1    6
+CONECT    2    7
+CONECT    3    8
+CONECT    4    9
+CONECT    5   10
+CONECT    6   11
+CONECT    6   12
+CONECT    6   13
+CONECT    8   14
+CONECT    8   15
+CONECT    8   16
+CONECT   14   17
+CONECT   14   18
+CONECT   14   19
+CONECT    1    5
+END
