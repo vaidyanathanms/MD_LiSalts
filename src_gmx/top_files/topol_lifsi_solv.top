@@ -1,0 +1,16 @@
+[ defaults ]
+; nbfunc	comb-rule	gen-pairs	fudgeLJ	fudgeQQ
+1               2               yes             0.5     0.5
+
+#include "./itp_files/combined_atypes.itp"
+#include "./itp_files/li_scaled.top"
+#include "./itp_files/fsi_scaled.top"
+#include "./itp_files/tfmspyr_updated_qs_atypes.itp"
+
+[ system ]
+LiPF6_TFMSPyr
+
+[ molecules ]
+Li+	67
+fsi-	67
+TFP	300 
