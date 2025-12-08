@@ -1,0 +1,5 @@
+TITLE     created by fftool
+REMARK    SIMBOX
+CRYST1   11.842   11.842   11.842  90.00  90.00  90.00 P 1           1
+HETATM    1 Li   Li      1      10.342   1.500   1.500  1.00  0.00          Li
+END

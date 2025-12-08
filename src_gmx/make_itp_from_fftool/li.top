@@ -1,0 +1,38 @@
+! created by fftool; mix = x
+
+[ defaults ]
+; nbfunc   comb-rule   gen-pairs   fudgeLJ fudgeQQ
+  1        2           yes         0.5     0.5
+
+[ atomtypes ]
+; name  at.nr     mass   charge  ptype  sigma        epsilon
+Li          3   6.9410   1.0000      A  2.12600e-01  7.64800e-02
+
+[ moleculetype ]
+; name       nrexcl
+Li+               3
+
+[ atoms ]
+;  nr   type  resnr  residu  atom   cgnr    charge
+    1   Li        1  Li      Li        1    1.000000
+
+[ bonds ]
+;  ai    aj   func    b0        kb
+
+[ constraints ]
+;  ai    aj   func    b0
+
+[ pairs ]
+;   ai   aj   func
+
+[ angles ]
+;  ai    aj    ak   func    th0        cth
+
+[ dihedrals ]
+;  ai    aj    ak    al   func    coefficients
+
+[ system ]
+simbox
+
+[ molecules ]
+Li+                  1
