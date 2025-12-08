@@ -1,0 +1,6 @@
+resname Li  and type Li;
+resname fsi and type OBT;
+resname fsi and type NBT;
+resname fsi and type FSI;
+resname fsi and type SBT;
+resname TFP
