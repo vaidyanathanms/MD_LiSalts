@@ -1,0 +1,9 @@
+; created by fftool; mix = x with manuall scaled charges by VMS
+ 
+[ moleculetype ]
+; name       nrexcl
+Li+               1
+
+[ atoms ]
+;  nr   type  resnr  residu  atom   cgnr    charge
+    1   Li        1  Li      Li        1    0.800000
