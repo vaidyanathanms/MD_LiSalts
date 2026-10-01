@@ -1,0 +1,23 @@
+REMARK LIGPARGEN GENERATED PDB FILE
+ATOM      1  O00 FEC     1      -0.662   1.122  -0.274
+ATOM      2  C01 FEC     1       0.693   1.241   0.184
+ATOM      3  C02 FEC     1       1.104  -0.212   0.435
+ATOM      4  F03 FEC     1       1.819  -0.700  -0.650
+ATOM      5  O04 FEC     1      -0.116  -0.892   0.526
+ATOM      6  C05 FEC     1      -1.127  -0.124  -0.012
+ATOM      7  O06 FEC     1      -2.235  -0.514  -0.208
+ATOM      8  H07 FEC     1       0.709   1.838   1.101
+ATOM      9  H08 FEC     1       1.297   1.708  -0.594
+ATOM     10  H09 FEC     1       1.701  -0.403   1.327
+TER 
+CONECT    1    2 
+CONECT    2    3 
+CONECT    3    4 
+CONECT    3    5 
+CONECT    1    6 
+CONECT    6    7 
+CONECT    2    8 
+CONECT    2    9 
+CONECT    3   10 
+CONECT    5    6 
+END
